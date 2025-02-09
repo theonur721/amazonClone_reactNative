@@ -43,7 +43,7 @@ Follow these steps to run the project after cloning:
    npx expo start
    ```
 
-### 📷 Screenshots
+### 📷 Screen Gif
 
 _(Add your app's screenshots here.)_
 
