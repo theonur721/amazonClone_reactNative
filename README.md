@@ -45,7 +45,7 @@ Follow these steps to run the project after cloning:
 
 ### 📷 Screen Gif
 
-_(Add your app's screenshots here.)_
+![](ekran.gif)
 
 ---
 
